@@ -171,22 +171,22 @@
       <dsig:DigestValue>c3e6VnQQJS48tJkU+U3eYJQW2rWDwWJM7e2m7tK5qFQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Legacy Order Validator.dll" size="143360">
+  <file name="Legacy Order Validator.dll" size="142848">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>h2+mJdt+fepYtYqzSLi15Fy/LRXWc0TOnmUw3467e3k=</dsig:DigestValue>
+      <dsig:DigestValue>cO95G+7nILm/wGh5T7ytKnGaj6gh0XP0Q51UhZlfe3Y=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Legacy Order Validator.exe" size="179200">
+  <file name="Legacy Order Validator.exe" size="178688">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Zvo5Fh8gc0i4DOD9iP++KyFCFo+wwUUdsndgvry/5lM=</dsig:DigestValue>
+      <dsig:DigestValue>yljaSLFyoSzL1dvSVVdD6VSYuPLuKmCTLHq3Sn4rPU8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Legacy Order Validator.runtimeconfig.json" size="515">
