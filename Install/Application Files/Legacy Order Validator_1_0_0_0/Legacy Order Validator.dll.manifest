@@ -177,7 +177,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8n662kIMjwVBqjCzy0i8qBNjYaRdmLywuyAUIN8VGLs=</dsig:DigestValue>
+      <dsig:DigestValue>PUYJphQhcWM/hjIVpdCKMuNj6n6gzSbM4nCyw3uL68o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Legacy Order Validator.exe" size="178688">
@@ -186,7 +186,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WnJjpXEZeoSbD1DspnuZvIz4xX3yNDX2V2+bfsoIYS4=</dsig:DigestValue>
+      <dsig:DigestValue>p4Cor43kWI7CxKoarJXSRavz7LIvm4sYC6QLjVIHkMc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Legacy Order Validator.runtimeconfig.json" size="515">
